@@ -1,0 +1,31 @@
+{
+    "settings": {
+		"unlockDemons": true
+    },
+    "levels": [
+        {
+            "name": "Sus",
+            "difficulty": 1,
+            "stars": 2,
+            "song": "StereoMadness.mp3"
+        },
+        {
+            "name": "AbobuS",
+            "difficulty": 6,
+            "stars": 14,
+            "song": "AirborneRobots.mp3"
+        },
+        {
+            "name": "UwU",
+            "difficulty": 5,
+            "stars": 12,
+            "song": "BlastProcessing.mp3"
+        },
+        {
+            "name": "Rainix Travel",
+            "difficulty": 3,
+            "stars": 6,
+            "song": "DJRubRub.mp3"
+        }
+    ]
+}
